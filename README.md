@@ -6,3 +6,5 @@
 ### Languages and Tools
 ![Renpy](https://img.shields.io/badge/-Renpy-090909?style=for-the-badge&logo=renpy&logoColor=ac79f2)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=7992f2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&)
