@@ -13,3 +13,4 @@
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=7a7d88)
 ![CLIPStudio](https://img.shields.io/badge/-CLIPStudio-090909?style=for-the-badge&logo=clipstudio)
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=e59ae8)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
