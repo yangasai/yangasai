@@ -14,3 +14,4 @@
 ![CLIPStudio](https://img.shields.io/badge/-CLIPStudio-090909?style=for-the-badge&logo=clipstudio)
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=e59ae8)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
+![JavaFX](https://img.shields.io/badge/-JavaFX-090909?style=for-the-badge&logo=javafx)
